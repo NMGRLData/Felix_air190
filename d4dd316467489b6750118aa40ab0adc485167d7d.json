@@ -1,0 +1,36 @@
+{
+    "deflections": {
+        "AX": 0.0,
+        "AX(CDD)": 0.0,
+        "H1": 0.0,
+        "H1(CDD)": 0.0,
+        "H2": 0.0,
+        "H2(CDD)": 0.0,
+        "L1": 0.0,
+        "L1(CDD)": 0.0,
+        "L2": 0.0,
+        "L2(CDD)": 0.0
+    },
+    "gains": {
+        "AX": 1,
+        "AX(CDD)": 1,
+        "H1": 1,
+        "H1(CDD)": 1,
+        "H2": 1,
+        "H2(CDD)": 1,
+        "L1": 1,
+        "L1(CDD)": 1,
+        "L2": 1,
+        "L2(CDD)": 1
+    },
+    "spectrometer": {
+        "ElectronEnergy": 120.864615760239,
+        "ExtractionFocus": 14.3484126984127,
+        "ExtractionLens": 24.4979609279611,
+        "ExtractionSymmetry": 1.88479853479853,
+        "HV": 9.90005340657664,
+        "IonCounterVoltage": 0.0,
+        "IonRepeller": -5.56465201465201,
+        "YSymmetry": 31.2323931623932
+    }
+}
